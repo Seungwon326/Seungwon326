@@ -23,6 +23,8 @@
 
 ### Project
 * 아카이빙 서비스 Linking - BE <sub>(2025.11 ~ 2026.02)</sub>
+* 단체주문 서비스 Gourpeat - BE <sub>(2026.05 ~ 2026.07)</sub>
+* 홍익대학교 컴퓨터공학과 밴드 깔루아 홈페이지 - BE <sub>(2026.01 ~ )</sub>
 
 <!--
 **Seungwon326/Seungwon326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
